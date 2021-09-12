@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Symiooo
-- 👀 I’m interested in python, business analytics, value management
-- 🌱 I’m currently learning bayesian modeling and ML
-- 💞️ I’m looking to collaborate on the above topics
+- 👀 I’m interested in python, business analytics and value management
+- 🌱 I’m currently learning Bayesian modeling, statistical inference and sentiment analysis
+- 💞️ I’m looking to collaborate on projects related to advanced financial concepts and econometric analyses using python
 
 <!---
 Symiooo/Symiooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

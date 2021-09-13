@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Symiooo
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in python, business analytics and value management
 - 🌱 I’m currently learning Bayesian modeling, statistical inference and sentiment analysis
 - 💞️ I’m looking to collaborate on projects related to advanced financial concepts and econometric analyses using python

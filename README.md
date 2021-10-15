@@ -12,7 +12,7 @@ All started with being employed as a management consultant in the transportation
 
 However during the initial analysis phase, I missed working and crunching data. At that time I wasn't able to draw conclusions and make recommendations based on a machine learning model. I wished, I would have the skillset to be a data-driven consultant, being firm in data crunching, able to code and make insightful visualizations which leverage final recommendations and aid clients overcoming their individual, sector-specific challenges.
 
-I started programming using R. Against the background of my PhD endeavour, it was not questionable for me to decide for R due to its strengths in statistical computing and complex visualization creation. However, soon I realized, python could do the same computations in a 
+I started programming using R. Against the background of my PhD endeavour, it was not questionable for me to decide for R due to its strengths in statistical computing and complex visualization creation. However, soon I realized, python could do the same computations. For me python is superior to R due to its increasing popularity which entails a speed advantage in developing new packages and further enhance existing ones. In addition, for me as someone without a computer science background, python's syntax is much easier to comprehend, learn and read.
 
 
 __________________________

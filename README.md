@@ -5,9 +5,12 @@
 
 __________________________
 
-## The Beginning of my Data Science Journey
+## The Beginning...
 
 Before you head over to my projects, I want to give you some insights in how I hopped on the data science train, what my I am looking for and why I am doing it.
+All started with being employed as a management consultant in the transportation and logistics sector. Daily business revolved around shift observations, data gathering and evaluation as well as conducting employee interviews. Days were long, nights were short. The dynamic and demanding environment is always for me the appealing part, when it comes to consultancy projects.
+
+However, during the analysis phase of a consultancy project, I 
 
 
 __________________________

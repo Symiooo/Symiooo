@@ -19,10 +19,6 @@ __________________________
 
 ## The Idea behind my GitHub Page
 
-__________________________
-
-## My PhD endeavour
-
 
 <!---
 Symiooo/Symiooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

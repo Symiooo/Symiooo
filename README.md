@@ -7,6 +7,9 @@ __________________________
 
 ## The Beginning of my Data Science Journey
 
+Before you head over to my projects, I want to give you some insights in how I hopped on the data science train, what my I am looking for and why I am doing it.
+
+
 __________________________
 
 ## The Idea behind my GitHub Page
